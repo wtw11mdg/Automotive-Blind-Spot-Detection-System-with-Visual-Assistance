@@ -6,6 +6,9 @@ This project uses a Sunplus SPHE6700 automotive embedded platform to develop a C
 
 We use three 180° HD cameras to create a super-wide angle view for blind spot assistance, giving drivers more control over their driving situation. In addition, different viewing angles of 3 cameras can help our blind spot warning system cover the detection area more comprehensively.
 
+If a vehicle is approaching from behind on either side of our vehicle and within the blind zone, the system will alert the driver to be aware of nearby obstacles.
+
+
 https://github.com/user-attachments/assets/1251eb5a-3ec4-4843-8565-0ccc0fb2ac8d
 
 
